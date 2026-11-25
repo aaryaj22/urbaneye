@@ -1,0 +1,6 @@
+{
+  "name": "UrbanEye AI",
+  "description": "Smart City Civic Issue Detection — AI-powered reporting, geo-tag duplicate merging, priority scoring, department routing, and live city heatmap.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
